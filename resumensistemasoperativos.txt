@@ -1,0 +1,39 @@
+####Python####
+
+Python es un lenguaje de programación extensamente usado por su versatilidad, estructuras de datos particulares como sus diccionarios y la amplia
+cantidad de librerias y compatibilidad sustentada por la comunidad.
+Actualmente es usado en toda clase de aplicaciones, desde servicios web hasta el desarrollo de redes neuronales.
+
+####Historia de los sistemas operativos####
+
+La siguiente es una linea de tiempo con algunos de los sistemas operativos más destacables:
+
+EXEC II(1962) -> EXEC 8 (1964)-> OS/360(1965)-> UNIX (1969)-> Batch-11 (1970)-> OS/8 (1971)->VM (1972) -> AltoOS (1973)-> CP/M (1976)-> 
+Apple Dos (1978) -> QDOS (1980) -> MS-DOS (1981)-> SunOS (1982)-> Ultrix (1982)-> LisaOS (1983) -> Novell NetWare (1983) -> MacOS (1984)-> 
+Linux (1991) -> Plan 9 (1993)-> Windows 95 (1995)-> WindowsNT (1996)-> Windows 2000 (2000)->Windows XP (2001) -> Ubuntu Linux (2004) -> 
+MAC OSX 10.4 (2005)-> Windows Vista (2007)-> Windows 7 (2009)-> iOs (2009) -> Android -> Windows Phone (2010)-> Windows 8 (2012) -> 
+Windows 10 (2015) -> Windows 11 (2021)
+
+Entre estos destacaremos los siguientes:
+
+Unix: Sistema en el que más tarde se basaria Linux
+QDOS y MS-DOS: Ambos creados por Tim Patterson y luego este ultimo (MS-DOS)adquirido por Microsoft donde se convetiria en uno de los sistemas operativos
+más populares.
+Linux: Basado en Unix, es un kernel sobre el que se construye de forma colaboratiba y libre distintas distribuciones, algunas de las más populares son 
+debian (en la que se basa ubuntu), Arch, Fedora, etc.
+
+####Evolución de los Sistemas Operativos####
+
+1ra Generación (1945-1955): Bublbos y cobeccuibes, las computadoras ocupaban cuartos enteros pues estaban basadas en la tecnologia de los bulbos
+que eran voluminosos y propensos a fallas, todo estaba escrito en lenguaje maquina.
+
+2da Generación (1955-1965): los Transistores permitian un comportamiento más fiable, principalmente se usaba fortran y se programaba con tarjetas perforadas
+
+3ra Generación (1965-1980): Circuitos integrados, multiprogramación y reduccion de precios debido a los Circuitos integrados.
+
+4ta Generación (1980-1990): Computadoras personales, aparece MS-DOS, con el concepto de Workstation nacen dos tipos de sistemas operativos:
+								*S.O Red:El usuario es conciente de la red de computadoaras a la que esta conectada y puede, por ejemplo, copiar archivos y
+								progranas desde otras computadoras de la Red a la propia.
+								
+								*S.O Distribuido:Para el usuario es invisible los procesos internos y ya que usualmente lo usan computadoras con más de un CPU
+								poseen algoritmos de asignación de trabajo complejos.
